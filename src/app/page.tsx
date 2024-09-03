@@ -165,6 +165,7 @@ export default function HomePage() {
             <span className="text-white">&#125;);</span>
           </div>
         </section>
+        <div className="h-[80px]"></div>
       </div>
 
       <footer className="fixed bottom-0 left-0 right-0 bg-gray-800 p-4 shadow-lg">
